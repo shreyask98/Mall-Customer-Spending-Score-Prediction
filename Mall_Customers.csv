@@ -1,0 +1,1181 @@
+CustomerID,Gender,Age,Annual Income (k$),Spending Score (1-100),City
+1,Male,19,15,39,New York
+2,Male,21,15,81,Seattle
+3,Female,20,16,6,Los Angeles.
+4,Female,23,16,77,Chicago.
+5,Female,31,17,40,Houston.
+6,Female,22,17,76,Phoenix.
+7,Female,35,18,6,Philadelphia.
+8,Female,23,18,94,San Antonio.
+9,Male,64,19,3,San Diego
+10,Female,30,19,72,New York
+11,Male,67,19,14,Seattle
+12,Female,35,19,99,Los Angeles.
+13,Female,58,20,15,Chicago.
+14,Female,24,20,77,Houston.
+15,Male,37,20,13,Phoenix.
+16,Male,22,20,79,Philadelphia.
+17,Female,35,21,35,San Antonio.
+18,Male,20,21,66,San Diego
+19,Male,52,23,29,Washington
+20,Female,35,23,98,Los Angeles.
+21,Male,35,24,35,Chicago.
+22,Male,25,24,73,Houston.
+23,Female,46,25,5,Phoenix.
+24,Male,31,25,73,Philadelphia.
+25,Female,54,28,14,San Antonio.
+26,Male,29,28,82,San Diego
+27,Female,45,28,32,Washington
+28,Male,35,28,61,Los Angeles.
+29,Female,40,29,31,Chicago.
+30,Female,23,29,87,Houston.
+31,Male,60,30,4,Phoenix.
+32,Female,21,30,73,Philadelphia.
+33,Male,53,33,4,San Antonio.
+34,Male,18,33,92,San Diego
+35,Female,49,33,14,Washington
+36,Female,21,33,81,New York
+37,Female,42,34,17,Seattle
+38,Female,30,34,73,Los Angeles.
+39,Female,36,37,26,Chicago.
+40,Female,20,37,75,Houston.
+41,Female,65,38,35,Phoenix.
+42,Male,24,38,92,Philadelphia.
+43,Male,48,39,36,San Antonio.
+44,Female,31,39,61,San Diego
+45,Female,49,39,28,New York
+46,Female,24,39,65,Seattle
+47,Female,50,40,55,Los Angeles.
+48,Female,27,40,47,Chicago.
+49,Female,29,40,42,Houston.
+50,Female,31,40,42,Phoenix.
+51,Female,49,42,52,Philadelphia.
+52,Male,33,42,60,San Antonio.
+53,Female,31,43,54,San Diego
+54,Male,59,43,60,Washington
+55,Female,50,43,45,Los Angeles.
+56,Male,47,43,41,Chicago.
+57,Female,51,44,50,Houston.
+58,Male,69,44,46,Phoenix.
+59,Female,27,46,51,Philadelphia.
+60,Male,53,46,46,San Antonio.
+61,Male,70,46,56,San Diego
+62,Male,19,46,55,Washington
+63,Female,67,47,52,Los Angeles.
+64,Female,54,47,59,Chicago.
+65,Male,63,48,51,Houston.
+66,Male,18,48,59,Phoenix.
+67,Female,43,48,50,Philadelphia.
+68,Female,68,48,48,San Antonio.
+69,Male,19,48,59,San Diego
+70,Female,32,48,47,Washington
+71,Male,70,49,55,New York
+72,Female,47,49,42,Seattle
+73,Female,60,50,49,Los Angeles.
+74,Female,60,50,56,Chicago.
+75,Male,59,54,47,Houston.
+76,Male,26,54,54,Phoenix.
+77,Female,45,54,53,Philadelphia.
+78,Male,40,54,48,San Antonio.
+79,Female,23,54,52,San Diego
+80,Female,49,54,42,New York
+81,Male,57,54,51,Seattle
+82,Male,38,54,55,Los Angeles.
+83,Male,67,54,41,Chicago.
+84,Female,46,54,44,Houston.
+85,Female,21,54,57,Phoenix.
+86,Male,48,54,46,Philadelphia.
+87,Female,55,57,58,San Antonio.
+88,Female,22,57,55,San Diego
+89,Female,34,58,60,Washington
+90,Female,50,58,46,Los Angeles.
+91,Female,68,59,55,Chicago.
+92,Male,18,59,41,Houston.
+93,Male,48,60,49,Phoenix.
+94,Female,40,60,40,Philadelphia.
+95,Female,32,60,42,San Antonio.
+96,Male,24,60,52,San Diego
+97,Female,47,60,47,Washington
+98,Female,27,60,50,Los Angeles.
+99,Male,48,61,42,Chicago.
+100,Male,20,61,49,Houston.
+101,Female,23,62,41,Phoenix.
+102,Female,49,62,48,Philadelphia.
+103,Male,67,62,59,San Antonio.
+104,Male,26,62,55,San Diego
+105,Male,49,62,56,Washington
+106,Female,21,62,42,New York
+107,Female,66,63,50,Seattle
+108,Male,54,63,46,Los Angeles.
+109,Male,68,63,43,Chicago.
+110,Male,66,63,48,Houston.
+111,Male,65,63,52,Phoenix.
+112,Female,19,63,54,Philadelphia.
+113,Female,38,64,42,San Antonio.
+114,Male,19,64,46,San Diego
+115,Female,18,65,48,New York
+116,Female,19,65,50,Seattle
+117,Female,63,65,43,Los Angeles.
+118,Female,49,65,59,Chicago.
+119,Female,51,67,43,Houston.
+120,Female,50,67,57,Phoenix.
+121,Male,27,67,56,Philadelphia.
+122,Female,38,67,40,San Antonio.
+123,Female,40,69,58,San Diego
+124,Male,39,69,91,Washington
+125,Female,23,70,29,Los Angeles.
+126,Female,31,70,77,Chicago.
+127,Male,43,71,35,Houston.
+128,Male,40,71,95,Phoenix.
+129,Male,59,71,11,Philadelphia.
+130,Male,38,71,75,San Antonio.
+131,Male,47,71,9,San Diego
+132,Male,39,71,75,Washington
+133,Female,25,72,34,Los Angeles.
+134,Female,31,72,71,Chicago.
+135,Male,20,73,5,Houston.
+136,Female,29,73,88,Phoenix.
+137,Female,44,73,7,Philadelphia.
+138,Male,32,73,73,San Antonio.
+139,Male,19,74,10,San Diego
+140,Female,35,74,72,Washington
+141,Female,57,75,5,New York
+142,Male,32,75,93,Seattle
+143,Female,28,76,40,Los Angeles.
+144,Female,32,76,87,Chicago.
+145,Male,25,77,12,Houston.
+146,Male,28,77,97,Phoenix.
+147,Male,48,77,36,Philadelphia.
+148,Female,32,77,74,San Antonio.
+149,Female,34,78,22,San Diego
+150,Male,34,78,90,New York
+151,Male,43,78,17,Seattle
+152,Male,39,78,88,Los Angeles.
+153,Female,44,78,20,Chicago.
+154,Female,38,78,76,Houston.
+155,Female,47,78,16,Phoenix.
+156,Female,27,78,89,Philadelphia.
+157,Male,37,78,1,San Antonio.
+158,Female,30,78,78,San Diego
+159,Male,34,78,1,Washington
+160,Female,30,78,73,Los Angeles.
+161,Female,56,79,35,Chicago.
+162,Female,29,79,83,Houston.
+163,Male,19,81,5,Phoenix.
+164,Female,31,81,93,Philadelphia.
+165,Male,50,85,26,San Antonio.
+166,Female,36,85,75,San Diego
+167,Male,42,86,20,Washington
+168,Female,33,86,95,Los Angeles.
+169,Female,36,87,27,Chicago.
+170,Male,32,87,63,Houston.
+171,Male,40,87,13,Phoenix.
+172,Male,28,87,75,Philadelphia.
+173,Male,36,87,10,San Antonio.
+174,Male,36,87,92,San Diego
+175,Female,52,88,13,Washington
+176,Female,30,88,86,New York
+177,Male,58,88,15,Seattle
+178,Male,27,88,69,Los Angeles.
+179,Male,59,93,14,Chicago.
+180,Male,35,93,90,Houston.
+181,Female,37,97,32,Phoenix.
+182,Female,32,97,86,Philadelphia.
+183,Male,46,98,15,San Antonio.
+184,Female,29,98,88,San Diego
+185,Female,41,99,39,New York
+186,Male,30,99,97,Seattle
+187,Female,54,101,24,Los Angeles.
+188,Male,28,101,68,Chicago.
+189,Female,41,103,17,Houston.
+190,Female,36,103,85,Phoenix.
+191,Female,34,103,23,Philadelphia.
+192,Female,32,103,69,San Antonio.
+193,Male,33,113,8,San Diego
+194,Female,38,113,91,Washington
+195,Female,47,120,16,Los Angeles.
+196,Female,35,120,79,Chicago.
+197,Female,45,126,28,Houston.
+198,Male,32,126,74,Phoenix.
+199,Male,32,137,18,Philadelphia.
+200,Male,30,137,83,San Antonio.
+201,Male,20,15,,San Diego
+202,Male,21,15,,Washington
+203,Female,22,16,,Los Angeles.
+204,Female,23,16,,Chicago.
+205,Female,24,17,,Houston.
+206,Female,25,17,,Phoenix.
+207,Female,26,18,,Philadelphia.
+208,Female,27,18,,San Antonio.
+209,Male,28,19,,San Diego
+210,Female,29,19,,Washington
+211,Male,30,19,,New York
+212,Female,31,19,,Seattle
+213,Female,32,20,,Los Angeles.
+214,Female,33,20,,Chicago.
+215,Male,34,20,,Houston.
+216,Male,35,20,,Phoenix.
+217,Female,36,21,,Philadelphia.
+218,Male,37,21,,San Antonio.
+219,Male,38,23,,San Diego
+220,Female,39,23,,New York
+221,Male,40,24,,Seattle
+222,Male,41,24,,Los Angeles.
+223,Female,42,25,,Chicago.
+224,Male,43,25,,Houston.
+225,Female,44,28,,Phoenix.
+226,Male,45,28,,Philadelphia.
+227,Female,46,28,,San Antonio.
+228,Male,47,28,,San Diego
+229,Female,48,29,,Washington
+230,Female,49,29,,Los Angeles.
+231,Male,50,30,,Chicago.
+232,Female,20,30,,Houston.
+233,Male,21,33,,Phoenix.
+234,Male,22,33,,Philadelphia.
+235,Female,23,33,,San Antonio.
+236,Female,24,33,,San Diego
+237,Female,25,34,,Washington
+238,Female,26,34,,Los Angeles.
+239,Female,27,37,,Chicago.
+240,Female,28,37,,Houston.
+241,Female,29,38,,Phoenix.
+242,Male,30,38,,Philadelphia.
+243,Male,31,39,,San Antonio.
+244,Female,32,39,,San Diego
+245,Female,33,39,,Washington
+246,Female,34,39,,New York
+247,Female,35,40,,Seattle
+248,Female,36,40,,Los Angeles.
+249,Female,37,40,,Chicago.
+250,Female,38,40,,Houston.
+251,Female,39,42,,Phoenix.
+252,Male,40,42,,Philadelphia.
+253,Female,41,43,,San Antonio.
+254,Male,42,43,,San Diego
+255,Female,43,43,,New York
+256,Male,44,43,,Seattle
+257,Female,45,44,,Los Angeles.
+258,Male,46,44,,Chicago.
+259,Female,47,46,,Houston.
+260,Male,48,46,,Phoenix.
+261,Male,49,46,,Philadelphia.
+262,Male,50,46,,San Antonio.
+263,Female,51,47,,San Diego
+264,Female,20,47,,Washington
+265,Male,21,48,,Los Angeles.
+266,Male,22,48,,Chicago.
+267,Female,23,48,,Houston.
+268,Female,24,48,,Phoenix.
+269,Male,25,48,,Philadelphia.
+270,Female,26,48,,San Antonio.
+271,Male,27,49,,San Diego
+272,Female,28,49,,Washington
+273,Female,29,50,,Los Angeles.
+274,Female,30,50,,Chicago.
+275,Male,31,54,,Houston.
+276,Male,32,54,,Phoenix.
+277,Female,33,54,,Philadelphia.
+278,Male,34,54,,San Antonio.
+279,Female,35,54,,San Diego
+280,Female,36,54,,Washington
+281,Male,37,54,,New York
+282,Male,38,54,,Seattle
+283,Male,39,54,,Los Angeles.
+284,Female,40,54,,Chicago.
+285,Female,41,54,,Houston.
+286,Male,42,54,,Phoenix.
+287,Female,43,57,,Philadelphia.
+288,Female,44,57,,San Antonio.
+289,Female,45,58,,San Diego
+290,Female,46,58,,New York
+291,Female,47,59,,Seattle
+292,Male,48,59,,Los Angeles.
+293,Male,49,60,,Chicago.
+294,Female,50,60,,Houston.
+295,Female,51,60,,Phoenix.
+296,Male,19,60,,Philadelphia.
+297,Female,21,60,,San Antonio.
+298,Female,20,60,,San Diego
+299,Male,23,61,,Washington
+300,Male,31,61,,Los Angeles.
+301,Female,22,62,,Chicago.
+302,Female,35,62,,Houston.
+303,Male,23,62,,Phoenix.
+304,Male,64,62,,Philadelphia.
+305,Male,30,62,,San Antonio.
+306,Female,67,62,39,San Diego
+307,Female,35,63,81,Washington
+308,Male,58,63,6,Los Angeles.
+309,Male,24,63,77,Chicago.
+310,Male,37,63,40,Houston.
+311,Male,22,63,76,Phoenix.
+312,Female,35,63,6,Philadelphia.
+313,Female,20,64,94,San Antonio.
+314,Male,52,64,3,San Diego
+315,Female,35,65,72,Washington
+316,Female,35,65,14,New York
+317,Female,25,65,99,Seattle
+318,Female,46,65,15,Los Angeles.
+319,Female,31,67,77,Chicago.
+320,Female,54,67,13,Houston.
+321,Male,29,67,79,Phoenix.
+322,Female,45,67,35,Philadelphia.
+323,Female,35,69,66,San Antonio.
+324,Male,40,69,29,San Diego
+325,Female,23,70,98,New York
+326,Female,60,70,35,Seattle
+327,Male,21,71,73,Los Angeles.
+328,Male,53,71,5,Chicago.
+329,Male,18,71,73,Houston.
+330,Male,49,71,14,Phoenix.
+331,Male,21,71,82,Philadelphia.
+332,Male,42,71,32,San Antonio.
+333,Female,30,72,61,San Diego
+334,Female,36,72,31,Washington
+335,Male,20,73,87,Los Angeles.
+336,Female,65,73,4,Chicago.
+337,Female,24,73,73,Houston.
+338,Male,48,73,4,Phoenix.
+339,Male,31,74,92,Philadelphia.
+340,Female,49,74,14,San Antonio.
+341,Female,24,75,81,San Diego
+342,Male,50,75,17,Washington
+343,Female,27,76,73,Los Angeles.
+344,Female,29,76,26,Chicago.
+345,Male,31,77,75,Houston.
+346,Male,49,77,35,Phoenix.
+347,Male,33,77,92,Philadelphia.
+348,Female,31,77,36,San Antonio.
+349,Female,59,78,61,San Diego
+350,Male,50,78,28,Washington
+351,Male,47,78,65,New York
+352,Male,51,78,55,Seattle
+353,Female,69,78,47,Los Angeles.
+354,Female,27,78,42,Chicago.
+355,Female,53,78,42,Houston.
+356,Female,70,78,52,Phoenix.
+357,Male,19,78,60,Philadelphia.
+358,Female,67,78,54,San Antonio.
+359,Male,54,78,60,San Diego
+360,Female,63,78,45,New York
+361,Female,18,79,41,Seattle
+362,Female,43,79,50,Los Angeles.
+363,Male,68,81,46,Chicago.
+364,Female,19,81,51,Houston.
+365,Male,32,85,46,Phoenix.
+366,Female,70,85,56,Philadelphia.
+367,Male,47,86,55,San Antonio.
+368,Female,60,86,52,San Diego
+369,Female,60,87,59,Washington
+370,Male,59,87,51,Los Angeles.
+371,Male,26,87,59,Chicago.
+372,Male,45,87,50,Houston.
+373,Male,40,87,48,Phoenix.
+374,Male,23,87,59,Philadelphia.
+375,Female,49,88,47,San Antonio.
+376,Female,57,88,55,San Diego
+377,Male,38,88,42,Washington
+378,Male,67,88,49,Los Angeles.
+379,Male,46,93,56,Chicago.
+380,Male,21,93,47,Houston.
+381,Female,48,97,54,Phoenix.
+382,Female,55,97,53,Philadelphia.
+383,Male,22,98,48,San Antonio.
+384,Female,34,98,52,San Diego
+385,Female,50,99,42,Washington
+386,Male,68,99,51,New York
+387,Female,18,101,55,Seattle
+388,Male,48,101,41,Los Angeles.
+389,Female,40,103,44,Chicago.
+390,Female,32,103,57,Houston.
+391,Female,24,103,46,Phoenix.
+392,Female,47,103,58,Philadelphia.
+393,Male,27,113,55,San Antonio.
+394,Female,48,113,60,San Diego
+395,Female,20,120,46,New York
+396,Female,23,120,55,Seattle
+397,Female,49,126,41,Los Angeles.
+398,Male,67,126,49,Chicago.
+399,Male,26,137,40,Houston.
+400,Male,49,137,42,Phoenix.
+401,Male,21,15,52,Philadelphia.
+402,Male,66,15,47,San Antonio.
+403,Female,54,16,50,San Diego
+404,Female,68,16,42,Washington
+405,Female,66,17,49,Los Angeles.
+406,Female,65,17,41,Chicago.
+407,Female,19,18,48,Houston.
+408,Female,38,18,59,Phoenix.
+409,Male,19,19,55,Philadelphia.
+410,Female,18,19,56,San Antonio.
+411,Male,19,19,42,San Diego
+412,Female,63,19,50,Washington
+413,Female,49,20,46,Los Angeles.
+414,Female,51,20,43,Chicago.
+415,Male,50,20,48,Houston.
+416,Male,27,20,52,Phoenix.
+417,Female,38,21,54,Philadelphia.
+418,Male,40,21,42,San Antonio.
+419,Male,39,23,46,San Diego
+420,Female,23,23,48,Washington
+421,Male,31,24,50,New York
+422,Male,43,24,43,Seattle
+423,Female,40,25,59,Los Angeles.
+424,Male,59,25,43,Chicago.
+425,Female,38,28,57,Houston.
+426,Male,47,28,56,Phoenix.
+427,Female,39,28,40,Philadelphia.
+428,Male,25,28,58,San Antonio.
+429,Female,31,29,91,San Diego
+430,Female,20,29,29,New York
+431,Male,29,30,77,Seattle
+432,Female,44,30,35,Los Angeles.
+433,Male,32,33,95,Chicago.
+434,Male,19,33,11,Houston.
+435,Female,35,33,75,Phoenix.
+436,Female,57,33,9,Philadelphia.
+437,Female,32,34,75,San Antonio.
+438,Female,28,34,34,San Diego
+439,Female,32,37,71,Washington
+440,Female,25,37,5,Los Angeles.
+441,Female,28,38,88,Chicago.
+442,Male,48,38,7,Houston.
+443,Male,32,39,73,Phoenix.
+444,Female,34,39,10,Philadelphia.
+445,Female,34,39,72,San Antonio.
+446,Female,43,39,5,San Diego
+447,Female,39,40,93,Washington
+448,Female,44,40,40,Los Angeles.
+449,Female,38,40,87,Chicago.
+450,Female,47,40,12,Houston.
+451,Female,27,42,97,Phoenix.
+452,Male,37,42,36,Philadelphia.
+453,Female,30,43,74,San Antonio.
+454,Male,34,43,22,San Diego
+455,Female,30,43,90,Washington
+456,Male,56,43,17,New York
+457,Female,29,44,88,Seattle
+458,Male,19,44,20,Los Angeles.
+459,Female,31,46,76,Chicago.
+460,Male,50,46,16,Houston.
+461,Male,36,46,89,Phoenix.
+462,Male,42,46,1,Philadelphia.
+463,Female,33,47,78,San Antonio.
+464,Female,36,47,1,San Diego
+465,Male,32,48,73,New York
+466,Male,40,48,35,Seattle
+467,Female,28,48,83,Los Angeles.
+468,Female,36,48,5,Chicago.
+469,Male,36,48,93,Houston.
+470,Female,52,48,26,Phoenix.
+471,Male,30,49,75,Philadelphia.
+472,Female,58,49,20,San Antonio.
+473,Female,27,50,95,San Diego
+474,Female,59,50,27,Washington
+475,Male,35,54,63,Los Angeles.
+476,Male,37,54,13,Chicago.
+477,Female,32,54,75,Houston.
+478,Male,46,54,10,Phoenix.
+479,Female,29,54,92,Philadelphia.
+480,Female,41,54,13,San Antonio.
+481,Male,30,54,86,San Diego
+482,Male,54,54,15,Washington
+483,Male,28,54,69,Los Angeles.
+484,Female,41,54,14,Chicago.
+485,Female,36,54,90,Houston.
+486,Male,34,54,32,Phoenix.
+487,Female,32,57,86,Philadelphia.
+488,Female,33,57,15,San Antonio.
+489,Female,38,58,88,San Diego
+490,Female,47,58,39,Washington
+491,Female,35,59,97,New York
+492,Male,45,59,24,Seattle
+493,Male,32,60,68,Los Angeles.
+494,Female,32,60,17,Chicago.
+495,Female,30,60,85,Houston.
+496,Male,20,60,23,Phoenix.
+497,Female,21,60,69,Philadelphia.
+498,Female,22,60,8,San Antonio.
+499,Male,23,61,91,San Diego
+500,Male,24,61,16,New York
+501,Female,25,62,79,Seattle
+502,Female,26,62,28,Los Angeles.
+503,Male,27,62,74,Chicago.
+504,Male,28,62,18,Houston.
+505,Male,29,62,83,Phoenix.
+506,Female,30,62,,Philadelphia.
+507,Female,31,63,,San Antonio.
+508,Male,32,63,39,San Diego
+509,Male,33,63,81,Washington
+510,Male,34,63,6,Los Angeles.
+511,Male,35,63,77,Chicago.
+512,Female,36,63,40,Houston.
+513,Female,37,64,76,Phoenix.
+514,Male,38,64,6,Philadelphia.
+515,Female,39,65,94,San Antonio.
+516,Female,40,65,3,San Diego
+517,Female,41,65,72,Washington
+518,Female,42,65,14,Los Angeles.
+519,Female,43,67,99,Chicago.
+520,Female,44,67,15,Houston.
+521,Male,45,67,77,Phoenix.
+522,Female,46,67,13,Philadelphia.
+523,Female,47,69,79,San Antonio.
+524,Male,48,69,35,San Diego
+525,Female,49,70,66,Washington
+526,Female,50,70,29,New York
+527,Male,20,71,98,Seattle
+528,Male,21,71,35,Los Angeles.
+529,Male,22,71,73,Chicago.
+530,Male,23,71,5,Houston.
+531,Male,24,71,73,Phoenix.
+532,Male,25,71,14,Philadelphia.
+533,Female,26,72,82,San Antonio.
+534,Female,27,72,32,San Diego
+535,Male,28,73,61,New York
+536,Female,29,73,31,Seattle
+537,Female,30,73,87,Los Angeles.
+538,Male,31,73,4,Chicago.
+539,Male,32,74,73,Houston.
+540,Female,33,74,4,Phoenix.
+541,Female,34,75,92,Philadelphia.
+542,Male,35,75,14,San Antonio.
+543,Female,36,76,81,San Diego
+544,Female,37,76,17,Washington
+545,Male,38,77,73,Los Angeles.
+546,Male,39,77,26,Chicago.
+547,Male,40,77,75,Houston.
+548,Female,41,77,35,Phoenix.
+549,Female,42,78,92,Philadelphia.
+550,Male,43,78,36,San Antonio.
+551,Male,44,78,61,San Diego
+552,Male,45,78,28,Washington
+553,Female,46,78,65,Los Angeles.
+554,Female,47,78,55,Chicago.
+555,Female,48,78,47,Houston.
+556,Female,49,78,42,Phoenix.
+557,Male,50,78,42,Philadelphia.
+558,Female,51,78,52,San Antonio.
+559,Male,20,78,60,San Diego
+560,Female,21,78,54,Washington
+561,Female,22,79,60,New York
+562,Female,23,79,45,Seattle
+563,Male,24,81,41,Los Angeles.
+564,Female,25,81,50,Chicago.
+565,Male,26,85,46,Houston.
+566,Female,27,85,51,Phoenix.
+567,Male,28,86,46,Philadelphia.
+568,Female,29,86,56,San Antonio.
+569,Female,30,87,55,San Diego
+570,Male,31,87,52,New York
+571,Male,32,87,59,Seattle
+572,Male,33,87,51,Los Angeles.
+573,Male,34,87,59,Chicago.
+574,Male,35,87,50,Houston.
+575,Female,36,88,48,Phoenix.
+576,Female,37,88,59,Philadelphia.
+577,Male,38,88,47,San Antonio.
+578,Male,39,88,55,San Diego
+579,Male,40,93,42,Washington
+580,Male,41,93,49,Los Angeles.
+581,Female,42,97,56,Chicago.
+582,Female,43,97,47,Houston.
+583,Male,44,98,54,Phoenix.
+584,Female,45,98,53,Philadelphia.
+585,Female,46,99,48,San Antonio.
+586,Male,47,99,52,San Diego
+587,Female,48,101,42,Washington
+588,Male,49,101,51,Los Angeles.
+589,Female,50,103,55,Chicago.
+590,Female,51,103,41,Houston.
+591,Female,19,103,44,Phoenix.
+592,Female,21,103,57,Philadelphia.
+593,Male,20,113,46,San Antonio.
+594,Female,23,113,58,San Diego
+595,Female,31,120,55,Washington
+596,Female,22,120,60,New York
+597,Female,35,126,46,Seattle
+598,Male,23,126,55,Los Angeles.
+599,Male,64,137,41,Chicago.
+600,Male,30,137,49,Houston.
+601,Male,67,15,40,Phoenix.
+602,Male,35,15,42,Philadelphia.
+603,Female,58,16,52,San Antonio.
+604,Female,24,16,47,San Diego
+605,Female,37,17,50,New York
+606,Female,22,17,42,Seattle
+607,Female,35,18,49,Los Angeles.
+608,Female,20,18,41,Chicago.
+609,Male,52,19,48,Houston.
+610,Female,35,19,59,Phoenix.
+611,Male,35,19,55,Philadelphia.
+612,Female,25,19,56,San Antonio.
+613,Female,46,20,42,San Diego
+614,Female,31,20,50,Washington
+615,Male,54,20,46,Los Angeles.
+616,Male,29,20,43,Chicago.
+617,Female,45,21,48,Houston.
+618,Male,35,21,52,Phoenix.
+619,Male,40,23,54,Philadelphia.
+620,Female,23,23,42,San Antonio.
+621,Male,60,24,46,San Diego
+622,Male,21,24,48,Washington
+623,Female,53,25,50,Los Angeles.
+624,Male,18,25,43,Chicago.
+625,Female,49,28,59,Houston.
+626,Male,21,28,43,Phoenix.
+627,Female,42,28,57,Philadelphia.
+628,Male,30,28,56,San Antonio.
+629,Female,36,29,40,San Diego
+630,Female,20,29,58,Washington
+631,Male,65,30,91,New York
+632,Female,24,30,29,Seattle
+633,Male,48,33,77,Los Angeles.
+634,Male,31,33,35,Chicago.
+635,Female,49,33,95,Houston.
+636,Female,24,33,11,Phoenix.
+637,Female,50,34,75,Philadelphia.
+638,Female,27,34,9,San Antonio.
+639,Female,29,37,75,San Diego
+640,Female,31,37,34,New York
+641,Female,49,38,71,Seattle
+642,Male,33,38,5,Los Angeles.
+643,Male,31,39,88,Chicago.
+644,Female,59,39,7,Houston.
+645,Female,50,39,73,Phoenix.
+646,Female,47,39,10,Philadelphia.
+647,Female,51,40,72,San Antonio.
+648,Female,69,40,5,San Diego
+649,Female,27,40,93,Washington
+650,Female,53,40,40,Los Angeles.
+651,Female,70,42,87,Chicago.
+652,Male,19,42,12,Houston.
+653,Female,67,43,97,Phoenix.
+654,Male,54,43,36,Philadelphia.
+655,Female,63,43,74,San Antonio.
+656,Male,18,43,22,San Diego
+657,Female,43,44,90,Washington
+658,Male,68,44,17,Los Angeles.
+659,Female,19,46,88,Chicago.
+660,Male,32,46,20,Houston.
+661,Male,70,46,76,Phoenix.
+662,Male,47,46,16,Philadelphia.
+663,Female,60,47,89,San Antonio.
+664,Female,60,47,1,San Diego
+665,Male,59,48,78,Washington
+666,Male,26,48,1,New York
+667,Female,45,48,73,Seattle
+668,Female,40,48,35,Los Angeles.
+669,Male,23,48,83,Chicago.
+670,Female,49,48,5,Houston.
+671,Male,57,49,93,Phoenix.
+672,Female,38,49,26,Philadelphia.
+673,Female,67,50,75,San Antonio.
+674,Female,46,50,20,San Diego
+675,Male,21,54,95,New York
+676,Male,48,54,27,Seattle
+677,Female,55,54,63,Los Angeles.
+678,Male,22,54,13,Chicago.
+679,Female,34,54,75,Houston.
+680,Female,50,54,10,Phoenix.
+681,Male,68,54,92,Philadelphia.
+682,Male,18,54,13,San Antonio.
+683,Male,48,54,86,San Diego
+684,Female,40,54,15,Washington
+685,Female,32,54,69,Los Angeles.
+686,Male,24,54,14,Chicago.
+687,Female,47,57,90,Houston.
+688,Female,27,57,32,Phoenix.
+689,Female,48,58,86,Philadelphia.
+690,Female,20,58,15,San Antonio.
+691,Female,23,59,88,San Diego
+692,Male,49,59,39,Washington
+693,Male,67,60,97,Los Angeles.
+694,Female,26,60,24,Chicago.
+695,Female,49,60,68,Houston.
+696,Male,21,60,17,Phoenix.
+697,Female,66,60,85,Philadelphia.
+698,Female,54,60,23,San Antonio.
+699,Male,68,61,69,San Diego
+700,Male,66,61,8,Washington
+701,Female,65,62,91,New York
+702,Female,19,62,16,Seattle
+703,Male,38,62,79,Los Angeles.
+704,Male,19,62,28,Chicago.
+705,Male,18,62,74,Houston.
+706,Female,19,62,18,Phoenix.
+707,Female,63,63,83,Philadelphia.
+708,Male,49,63,39,San Antonio.
+709,Male,51,63,81,San Diego
+710,Male,50,63,6,New York
+711,Male,27,63,77,Seattle
+712,Female,38,63,40,Los Angeles.
+713,Female,40,64,76,Chicago.
+714,Male,39,64,6,Houston.
+715,Female,23,65,94,Phoenix.
+716,Female,31,65,3,Philadelphia.
+717,Female,43,65,72,San Antonio.
+718,Female,40,65,14,San Diego
+719,Female,59,67,99,Washington
+720,Female,38,67,15,Los Angeles.
+721,Male,47,67,77,Chicago.
+722,Female,39,67,13,Houston.
+723,Female,25,69,79,Phoenix.
+724,Male,31,69,35,Philadelphia.
+725,Female,20,70,66,San Antonio.
+726,Female,29,70,29,San Diego
+727,Male,44,71,98,Washington
+728,Male,32,71,35,Los Angeles.
+729,Male,19,71,73,Chicago.
+730,Male,35,71,5,Houston.
+731,Male,57,71,73,Phoenix.
+732,Male,32,71,14,Philadelphia.
+733,Female,28,72,82,San Antonio.
+734,Female,32,72,32,San Diego
+735,Male,25,73,61,Washington
+736,Female,28,73,31,New York
+737,Female,48,73,87,Seattle
+738,Male,32,73,4,Los Angeles.
+739,Male,34,74,73,Chicago.
+740,Female,34,74,4,Houston.
+741,Female,43,75,92,Phoenix.
+742,Male,39,75,14,Philadelphia.
+743,Female,44,76,81,San Antonio.
+744,Female,38,76,17,San Diego
+745,Male,47,77,73,New York
+746,Male,27,77,26,Seattle
+747,Male,37,77,75,Los Angeles.
+748,Female,30,77,35,Chicago.
+749,Female,34,78,92,Houston.
+750,Male,30,78,36,Phoenix.
+751,Male,56,78,61,Philadelphia.
+752,Male,29,78,28,San Antonio.
+753,Female,19,78,65,San Diego
+754,Female,31,78,55,Washington
+755,Female,50,78,47,Los Angeles.
+756,Female,36,78,42,Chicago.
+757,Male,42,78,42,Houston.
+758,Female,33,78,52,Phoenix.
+759,Male,36,78,60,Philadelphia.
+760,Female,32,78,54,San Antonio.
+761,Female,40,79,60,San Diego
+762,Female,28,79,45,Washington
+763,Male,36,81,41,Los Angeles.
+764,Female,36,81,50,Chicago.
+765,Male,52,85,46,Houston.
+766,Female,30,85,51,Phoenix.
+767,Male,58,86,46,Philadelphia.
+768,Female,27,86,56,San Antonio.
+769,Female,59,87,55,San Diego
+770,Male,35,87,52,Washington
+771,Male,37,87,59,New York
+772,Male,32,87,51,Seattle
+773,Male,46,87,59,Los Angeles.
+774,Male,29,87,50,Chicago.
+775,Female,41,88,48,Houston.
+776,Female,30,88,59,Phoenix.
+777,Male,54,88,47,Philadelphia.
+778,Male,28,88,55,San Antonio.
+779,Male,41,93,42,San Diego
+780,Male,36,93,49,New York
+781,Female,34,97,56,Seattle
+782,Female,32,97,47,Los Angeles.
+783,Male,33,98,54,Chicago.
+784,Female,38,98,53,Houston.
+785,Female,47,99,48,Phoenix.
+786,Male,35,99,52,Philadelphia.
+787,Female,45,101,42,San Antonio.
+788,Male,32,101,51,San Diego
+789,Female,32,103,55,Washington
+790,Female,30,103,41,Los Angeles.
+791,Female,20,103,44,Chicago.
+792,Female,21,103,57,Houston.
+793,Male,22,113,46,Phoenix.
+794,Female,23,113,58,Philadelphia.
+795,Female,24,120,55,San Antonio.
+796,Female,25,120,60,San Diego
+797,Female,26,126,46,Washington
+798,Male,27,126,55,Los Angeles.
+799,Male,28,137,41,Chicago.
+800,Male,29,137,49,Houston.
+801,Male,30,15,40,Phoenix.
+802,Male,31,15,42,Philadelphia.
+803,Female,32,16,52,San Antonio.
+804,Female,33,16,47,San Diego
+805,Female,34,17,50,Washington
+806,Female,35,17,42,New York
+807,Female,36,18,49,Seattle
+808,Female,37,18,41,Los Angeles.
+809,Male,38,19,48,Chicago.
+810,Female,39,19,59,Houston.
+811,Male,40,19,55,Phoenix.
+812,Female,41,19,56,Philadelphia.
+813,Female,42,20,42,San Antonio.
+814,Female,43,20,50,San Diego
+815,Male,44,20,46,New York
+816,Male,45,20,43,Seattle
+817,Female,46,21,48,Los Angeles.
+818,Male,47,21,52,Chicago.
+819,Male,48,23,54,Houston.
+820,Female,49,23,42,Phoenix.
+821,Male,50,24,46,Philadelphia.
+822,Male,20,24,48,San Antonio.
+823,Female,21,25,50,San Diego
+824,Male,22,25,43,Washington
+825,Female,23,28,59,Los Angeles.
+826,Male,24,28,43,Chicago.
+827,Female,25,28,57,Houston.
+828,Male,26,28,56,Phoenix.
+829,Female,27,29,40,Philadelphia.
+830,Female,28,29,58,San Antonio.
+831,Male,29,30,91,San Diego
+832,Female,30,30,29,Washington
+833,Male,31,33,77,Los Angeles.
+834,Male,32,33,35,Chicago.
+835,Female,33,33,95,Houston.
+836,Female,34,33,11,Phoenix.
+837,Female,35,34,75,Philadelphia.
+838,Female,36,34,9,San Antonio.
+839,Female,37,37,75,San Diego
+840,Female,38,37,34,Washington
+841,Female,39,38,71,New York
+842,Male,40,38,5,Seattle
+843,Male,41,39,88,Los Angeles.
+844,Female,42,39,7,Chicago.
+845,Female,43,39,73,Houston.
+846,Female,44,39,10,Phoenix.
+847,Female,45,40,72,Philadelphia.
+848,Female,46,40,5,San Antonio.
+849,Female,47,40,93,San Diego
+850,Female,48,40,40,New York
+851,Female,49,42,87,Seattle
+852,Male,50,42,12,Los Angeles.
+853,Female,51,43,97,Chicago.
+854,Male,20,43,36,Houston.
+855,Female,21,43,74,Phoenix.
+856,Male,22,43,22,Philadelphia.
+857,Female,23,44,90,San Antonio.
+858,Male,24,44,17,San Diego
+859,Female,25,46,88,Washington
+860,Male,26,46,20,Los Angeles.
+861,Male,27,46,76,Chicago.
+862,Male,28,46,16,Houston.
+863,Female,29,47,89,Phoenix.
+864,Female,30,47,1,Philadelphia.
+865,Male,31,48,78,San Antonio.
+866,Male,32,48,1,San Diego
+867,Female,33,48,73,Washington
+868,Female,34,48,35,Los Angeles.
+869,Male,35,48,83,Chicago.
+870,Female,36,48,5,Houston.
+871,Male,37,49,93,Phoenix.
+872,Female,38,49,26,Philadelphia.
+873,Female,39,50,75,San Antonio.
+874,Female,40,50,20,San Diego
+875,Male,41,54,95,Washington
+876,Male,42,54,27,New York
+877,Female,43,54,63,Seattle
+878,Male,44,54,13,Los Angeles.
+879,Female,45,54,75,Chicago.
+880,Female,46,54,10,Houston.
+881,Male,47,54,92,Phoenix.
+882,Male,48,54,13,Philadelphia.
+883,Male,49,54,86,San Antonio.
+884,Female,50,54,15,San Diego
+885,Female,51,54,69,New York
+886,Male,19,54,14,Seattle
+887,Female,21,57,90,Los Angeles.
+888,Female,20,57,32,Chicago.
+889,Female,23,58,86,Houston.
+890,Female,31,58,15,Phoenix.
+891,Female,22,59,88,Philadelphia.
+892,Male,35,59,39,San Antonio.
+893,Male,23,60,97,San Diego
+894,Female,64,60,24,Washington
+895,Female,30,60,68,Los Angeles.
+896,Male,67,60,17,Chicago.
+897,Female,35,60,85,Houston.
+898,Female,58,60,23,Phoenix.
+899,Male,24,61,69,Philadelphia.
+900,Male,37,61,8,San Antonio.
+901,Female,22,62,91,San Diego
+902,Female,35,62,16,Washington
+903,Male,20,62,79,Los Angeles.
+904,Male,52,62,28,Chicago.
+905,Male,35,62,74,Houston.
+906,Female,35,62,18,Phoenix.
+907,Female,25,63,83,Philadelphia.
+908,Male,46,63,,San Antonio.
+909,Male,31,63,,San Diego
+910,Male,54,63,,Washington
+911,Male,29,63,,New York
+912,Female,45,63,,Seattle
+913,Female,35,64,,Los Angeles.
+914,Male,40,64,,Chicago.
+915,Female,23,65,,Houston.
+916,Female,60,65,,Phoenix.
+917,Female,21,65,,Philadelphia.
+918,Female,53,65,,San Antonio.
+919,Female,18,67,,San Diego
+920,Female,49,67,,New York
+921,Male,21,67,,Seattle
+922,Female,42,67,,Los Angeles.
+923,Female,30,69,,Chicago.
+924,Male,36,69,,Houston.
+925,Female,20,70,,Phoenix.
+926,Female,65,70,,Philadelphia.
+927,Male,24,71,,San Antonio.
+928,Male,48,71,,San Diego
+929,Male,31,71,,Washington
+930,Male,49,71,,Los Angeles.
+931,Male,24,71,,Chicago.
+932,Male,50,71,,Houston.
+933,Female,27,72,,Phoenix.
+934,Female,29,72,,Philadelphia.
+935,Male,31,73,,San Antonio.
+936,Female,49,73,,San Diego
+937,Female,33,73,,Washington
+938,Male,31,73,,Los Angeles.
+939,Male,59,74,,Chicago.
+940,Female,50,74,,Houston.
+941,Female,47,75,,Phoenix.
+942,Male,51,75,,Philadelphia.
+943,Female,69,76,,San Antonio.
+944,Female,27,76,,San Diego
+945,Male,53,77,,Washington
+946,Male,70,77,,New York
+947,Male,19,77,,Seattle
+948,Female,67,77,,Los Angeles.
+949,Female,54,78,,Chicago.
+950,Male,63,78,,Houston.
+951,Male,18,78,,Phoenix.
+952,Male,43,78,,Philadelphia.
+953,Female,68,78,,San Antonio.
+954,Female,19,78,,San Diego
+955,Female,32,78,,New York
+956,Female,70,78,,Seattle
+957,Male,47,78,,Los Angeles.
+958,Female,60,78,,Chicago.
+959,Male,60,78,,Houston.
+960,Female,59,78,,Phoenix.
+961,Female,26,79,,Philadelphia.
+962,Female,45,79,,San Antonio.
+963,Male,40,81,,San Diego
+964,Female,23,81,,Washington
+965,Male,49,85,,Los Angeles.
+966,Female,57,85,,Chicago.
+967,Male,38,86,,Houston.
+968,Female,67,86,,Phoenix.
+969,Female,46,87,,Philadelphia.
+970,Male,21,87,,San Antonio.
+971,Male,48,87,,San Diego
+972,Male,55,87,,Washington
+973,Male,22,87,,Los Angeles.
+974,Male,34,87,,Chicago.
+975,Female,50,88,,Houston.
+976,Female,68,88,,Phoenix.
+977,Male,18,88,,Philadelphia.
+978,Male,48,88,,San Antonio.
+979,Male,40,93,,San Diego
+980,Male,32,93,,Washington
+981,Female,24,97,,New York
+982,Female,47,97,,Seattle
+983,Male,27,98,,Los Angeles.
+984,Female,48,98,,Chicago.
+985,Female,20,99,,Houston.
+986,Male,23,99,,Phoenix.
+987,Female,49,101,,Philadelphia.
+988,Male,67,101,,San Antonio.
+989,Female,26,103,,San Diego
+990,Female,49,103,,New York
+991,Female,21,103,,Seattle
+992,Female,66,103,,Los Angeles.
+993,Male,54,113,,Chicago.
+994,Female,68,113,,Houston.
+995,Female,66,120,,Phoenix.
+996,Female,65,120,,Philadelphia.
+997,Female,19,126,,San Antonio.
+998,Male,38,126,,San Diego
+999,Male,19,137,,Washington
+1000,Male,18,137,,Los Angeles.
+1001,Male,19,15,,Chicago.
+1002,Male,63,15,,Houston.
+1003,Female,49,16,,Phoenix.
+1004,Female,51,16,,Philadelphia.
+1005,Female,50,17,,San Antonio.
+1006,Female,27,17,,San Diego
+1007,Female,38,18,,Washington
+1008,Female,40,18,,Los Angeles.
+1009,Male,39,19,,Chicago.
+1010,Female,23,19,,Houston.
+1011,Male,31,19,,Phoenix.
+1012,Female,43,19,,Philadelphia.
+1013,Female,40,20,,San Antonio.
+1014,Female,59,20,,San Diego
+1015,Male,38,20,,Washington
+1016,Male,47,20,,New York
+1017,Female,39,21,,Seattle
+1018,Male,25,21,,Los Angeles.
+1019,Male,31,23,,Chicago.
+1020,Female,20,23,,Houston.
+1021,Male,29,24,,Phoenix.
+1022,Male,44,24,,Philadelphia.
+1023,Female,32,25,,San Antonio.
+1024,Male,19,25,,San Diego
+1025,Female,35,28,,New York
+1026,Male,57,28,,Seattle
+1027,Female,32,28,,Los Angeles.
+1028,Male,28,28,,Chicago.
+1029,Female,32,29,,Houston.
+1030,Female,25,29,,Phoenix.
+1031,Male,28,30,,Philadelphia.
+1032,Female,48,30,,San Antonio.
+1033,Male,32,33,,San Diego
+1034,Male,34,33,,Washington
+1035,Female,34,33,,Los Angeles.
+1036,Female,43,33,,Chicago.
+1037,Female,39,34,,Houston.
+1038,Female,44,34,,Phoenix.
+1039,Female,38,37,39,Philadelphia.
+1040,Female,47,37,81,San Antonio.
+1041,Female,27,38,6,San Diego
+1042,Male,37,38,77,Washington
+1043,Male,30,39,40,Los Angeles.
+1044,Female,34,39,76,Chicago.
+1045,Female,30,39,6,Houston.
+1046,Female,56,39,94,Phoenix.
+1047,Female,29,40,3,Philadelphia.
+1048,Female,19,40,72,San Antonio.
+1049,Female,31,40,14,San Diego
+1050,Female,50,40,99,Washington
+1051,Female,36,42,15,New York
+1052,Male,42,42,77,Seattle
+1053,Female,33,43,13,Los Angeles.
+1054,Male,36,43,79,Chicago.
+1055,Female,32,43,35,Houston.
+1056,Male,40,43,66,Phoenix.
+1057,Female,28,44,29,Philadelphia.
+1058,Male,36,44,98,San Antonio.
+1059,Female,36,46,35,San Diego
+1060,Male,52,46,73,New York
+1061,Male,30,46,5,Seattle
+1062,Male,58,46,73,Los Angeles.
+1063,Female,27,47,14,Chicago.
+1064,Female,59,47,82,Houston.
+1065,Male,35,48,32,Phoenix.
+1066,Male,37,48,61,Philadelphia.
+1067,Female,32,48,31,San Antonio.
+1068,Female,46,48,87,San Diego
+1069,Male,29,48,4,Washington
+1070,Female,41,48,73,Los Angeles.
+1071,Male,30,49,4,Chicago.
+1072,Female,54,49,92,Houston.
+1073,Female,28,50,14,Phoenix.
+1074,Female,41,50,81,Philadelphia.
+1075,Male,36,54,17,San Antonio.
+1076,Male,34,54,73,San Diego
+1077,Female,32,54,26,Washington
+1078,Male,33,54,75,Los Angeles.
+1079,Female,38,54,35,Chicago.
+1080,Female,47,54,92,Houston.
+1081,Male,35,54,36,Phoenix.
+1082,Male,45,54,61,Philadelphia.
+1083,Male,32,54,28,San Antonio.
+1084,Female,32,54,65,San Diego
+1085,Female,30,54,55,Washington
+1086,Male,20,54,47,New York
+1087,Female,21,57,42,Seattle
+1088,Female,22,57,42,Los Angeles.
+1089,Female,23,58,52,Chicago.
+1090,Female,24,58,60,Houston.
+1091,Female,25,59,54,Phoenix.
+1092,Male,26,59,60,Philadelphia.
+1093,Male,27,60,45,San Antonio.
+1094,Female,28,60,41,San Diego
+1095,Female,29,60,50,New York
+1096,Male,30,60,46,Seattle
+1097,Female,31,60,51,Los Angeles.
+1098,Female,32,60,46,Chicago.
+1099,Male,33,61,56,Houston.
+1100,Male,34,61,55,Phoenix.
+1101,Female,35,62,52,Philadelphia.
+1102,Female,36,62,59,San Antonio.
+1103,Male,37,62,51,San Diego
+1104,Male,38,62,59,Washington
+1105,Male,39,62,50,Los Angeles.
+1106,Female,40,62,48,Chicago.
+1107,Female,41,63,59,Houston.
+1108,Male,42,63,47,Phoenix.
+1109,Male,43,63,55,Philadelphia.
+1110,Male,44,63,42,San Antonio.
+1111,Male,45,63,49,San Diego
+1112,Female,46,63,56,Washington
+1113,Female,47,64,47,Los Angeles.
+1114,Male,48,64,54,Chicago.
+1115,Female,49,65,53,Houston.
+1116,Female,50,65,48,Phoenix.
+1117,Female,20,65,52,Philadelphia.
+1118,Female,21,65,42,San Antonio.
+1119,Female,22,67,51,San Diego
+1120,Female,23,67,55,Washington
+1121,Male,24,67,41,New York
+1122,Female,25,67,44,Seattle
+1123,Female,26,69,57,Los Angeles.
+1124,Male,27,69,46,Chicago.
+1125,Female,28,70,58,Houston.
+1126,Female,29,70,55,Phoenix.
+1127,Male,30,71,60,Philadelphia.
+1128,Male,31,71,46,San Antonio.
+1129,Male,32,71,55,San Diego
+1130,Male,33,71,41,New York
+1131,Male,34,71,49,Seattle
+1132,Male,35,71,40,Los Angeles.
+1133,Female,36,72,42,Chicago.
+1134,Female,37,72,52,Houston.
+1135,Male,38,73,47,Phoenix.
+1136,Female,39,73,50,Philadelphia.
+1137,Female,40,73,42,San Antonio.
+1138,Male,41,73,49,San Diego
+1139,Male,42,74,41,Washington
+1140,Female,43,74,48,Los Angeles.
+1141,Female,44,75,59,Chicago.
+1142,Male,45,75,55,Houston.
+1143,Female,46,76,56,Phoenix.
+1144,Female,47,76,42,Philadelphia.
+1145,Male,48,77,50,San Antonio.
+1146,Male,49,77,46,San Diego
+1147,Male,50,77,43,Washington
+1148,Female,51,77,48,Los Angeles.
+1149,Female,20,78,52,Chicago.
+1150,Male,21,78,54,Houston.
+1151,Male,22,78,42,Phoenix.
+1152,Male,23,78,46,Philadelphia.
+1153,Female,24,78,48,San Antonio.
+1154,Female,25,78,50,San Diego
+1155,Female,26,78,43,Washington
+1156,Female,27,78,59,New York
+1157,Male,28,78,43,Seattle
+1158,Female,29,78,57,Los Angeles.
+1159,Male,30,78,56,Chicago.
+1160,Female,31,78,40,Houston.
+1161,Female,32,79,58,Phoenix.
+1162,Female,33,79,91,Philadelphia.
+1163,Male,34,81,29,San Antonio.
+1164,Female,35,81,77,San Diego
+1165,Male,36,85,35,New York
+1166,Female,37,85,95,Seattle
+1167,Male,38,86,11,Los Angeles.
+1168,Female,39,86,75,Chicago.
+1169,Female,40,87,9,Houston.
+1170,Male,41,87,75,Phoenix.
+1171,Male,42,87,34,Philadelphia.
+1172,Male,43,87,71,San Antonio.
+1173,Male,44,87,5,San Diego
+1174,Male,45,87,88,Washington
+1175,Female,46,88,7,Los Angeles.
+1176,Female,47,88,73,Chicago.
+1177,Male,48,88,10,Houston.
+1178,Male,49,88,72,Phoenix.
+1179,Male,50,93,5,Philadelphia.
+1180,Male,51,93,93,San Antonio.
